@@ -51,4 +51,4 @@
 
 ## LICENSE
 
-MIT © [ITSAY](http://www.sivan.tech)
+
