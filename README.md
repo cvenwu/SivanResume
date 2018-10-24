@@ -2,7 +2,7 @@
 
 # 个人简历模板
 
-[http://itsay.gitee.io/resume](http://itsay.gitee.io/resume)
+[http://www.sivan.tech/SivanResume/](http://www.sivan.tech/SivanResume/)
 
 ## Intro
 
@@ -51,4 +51,4 @@
 
 ## LICENSE
 
-MIT © [ITSAY](http://blog.if2er.com)
+MIT © [ITSAY](http://www.sivan.tech)
